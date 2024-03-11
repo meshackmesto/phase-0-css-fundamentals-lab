@@ -3,3 +3,19 @@ body {
   height: 100%;
   margin: 0;
 }
+header{
+  text-align: center;
+}
+img{
+  margin-left: 400px;
+}
+nav a{
+  padding: 10px;
+}
+figcaption{
+  font-size: small;
+  text-align: center;
+}
+p{
+  margin: auto;
+}
