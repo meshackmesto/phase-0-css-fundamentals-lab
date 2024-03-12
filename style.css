@@ -6,16 +6,33 @@ body {
 header{
   text-align: center;
 }
-img{
-  margin-left: 400px;
-}
-nav a{
+header nav a{
+  background-color: grey;
   padding: 10px;
 }
 figcaption{
   font-size: small;
   text-align: center;
 }
-p{
-  margin: auto;
+#featured-property{
+  width: 100%;
+  text-align: center;
+}
+#featured-property figure figcaption{
+  font-size: 10px;
+}
+#featured-property p{
+  width: 800px;
+  margin: 0 auto;
+  margin-bottom: 20px;
+}
+#details{
+  width: 100%;
+  background-color: red;
+  position: absolute;
+}
+#details-div{
+  float: left;
+  text-align: center;
+  width: 25%;
 }
